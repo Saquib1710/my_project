@@ -13,4 +13,4 @@ plt.xlabel("Month")
 plt.ylabel("Revenue")
 plt.title("Monthly Revenue from Supermarket Sales")
 plt.show()
-
+plt.show()
